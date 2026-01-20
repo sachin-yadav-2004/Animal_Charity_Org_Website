@@ -51,6 +51,10 @@ Open the project folder
 Open index.html in your browser
 
 
+#Connect on LinkedIn:
+https://www.linkedin.com/posts/sachin-yadav-b96552292_webdevelopment-studentproject-animalwelfare-activity-7419470365762015232-BAbi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbqhSIBqL3H4f3fsvq_MVFV2suyIXVktes
+
+
 
 
 #🎯 Project Objective
